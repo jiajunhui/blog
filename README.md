@@ -32,7 +32,8 @@
 ```$ npm install hexo-deployer-git --save```
 
 
-8.替换配置文字和文档		
+8.替换配置文字和文档	
+	
 ```.../blog/_config.yml```	
 ```.../blog/source/*```		
 ```.../blog/themes/maupassant/_config.yml```
