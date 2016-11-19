@@ -37,3 +37,7 @@
 	.../blog/_config.yml		
 	.../blog/source/*	
 	.../blog/themes/maupassant/_config.yml
+	
+9.部署
+
+`hexo generate --deploy` 或者 `hexo deploy --generate`
