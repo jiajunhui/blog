@@ -18,26 +18,18 @@
 	$ hexo init blog	
 	$ cd blog	
 	$ npm install	
-
-6.下载主题（摘自[Github](https://github.com/tufu9441/maupassant-hexo)）
 	
-	$ git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
-	$ npm install hexo-renderer-jade --save
-	$ npm install hexo-renderer-sass --save
-
-注：执行时最好加```sudo```，执行```hexo-renderer-sass --save``` 应该会报错，解决可参照[中文文档](https://www.haomwei.com/technology/maupassant-hexo.html)
-		
-7.安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
+6.安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
 
 ```$ npm install hexo-deployer-git --save```
 
 
-8.替换配置文字和文档	
+7.替换配置文字和文档	
 	
 	.../blog/_config.yml		
 	.../blog/source/*	
 	.../blog/themes/maupassant/_config.yml
 	
-9.部署
+8.部署
 
 `hexo generate --deploy` 或者 `hexo deploy --generate`
