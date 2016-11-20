@@ -1,30 +1,22 @@
 ---
 title: HelloWorld
 date: 2016-08-07 18:07:12
-tags: 起源
+categortes: 
+- IT
+tags: Print
 ---
 
-```
-	NSLog(@"Hello world");
-```
+	print("Hello Swift")
+	
+	NSLog(@"Hello Objeict-C");
 
-```
-	printf("Hello world");
-```
+	printf("Hello C");
 
-```
-	System.out.println("Hello world");
-```
+	System.out.println("Hello Java");
 
-```
-	echo "Hello world";
-```
+	echo "Hello PHP";
 
-```
-	Console.log('Hello world');
-```
+	Console.log('Hello Web');
 
-```
-	Log.i("Hello world");
-```
+	Log.i("Hello Android");
 

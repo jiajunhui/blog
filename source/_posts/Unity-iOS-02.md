@@ -1,7 +1,12 @@
 ---
 title: Unity与iOS原生02
 date: 2016-08-10 15:25:59
-tags: Unity与iOS原生
+categories:
+- iOS
+tags: 
+- Unity
+- iOS
+- Objective-C
 ---
 
 # Unity调用iOS方法
@@ -14,6 +19,8 @@ tags: Unity与iOS原生
 1.在Unity工程中新建一个`Assets`:
 
 ![新建一个Assets](../../../../images/20160810-unity-01.png "新建一个Assets")	
+
+<!-- more -->
 
 2.将`Square`拖动至`Hierarchy`:
 

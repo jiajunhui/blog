@@ -23,14 +23,18 @@
 
 		$ npm install hexo-deployer-git --save
 
+7. 安装搜索三方`hexo-generator-searchdb`
 
-7. 替换配置文字和文档	
+		$ npm install hexo-generator-searchdb --save
+
+8. 替换配置文字和文档	
 	
-		.../blog/_config.yml		
+		.../blog/_config.yml
+		.../blog/scaffolds/		
 		.../blog/source/	
 		.../blog/themes/
 	
-8. 部署
+9. 部署
 
 	方式一 执行`hexo generate --deploy` 
 	

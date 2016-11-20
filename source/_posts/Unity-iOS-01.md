@@ -1,7 +1,12 @@
 ---
 title: Unity与iOS原生01
 date: 2016-08-09 10:08:11
-tags: Unity与iOS原生
+categories:
+- iOS
+tags: 
+- Unity
+- iOS
+- Objective-C
 ---
 
 # 以原生为主的启动、原生与Unity3D视图Push/Pop切换
@@ -20,6 +25,7 @@ tags: Unity与iOS原生
 3、从`Finder`打开生成的`Xcode项目`；			
 
 4、在`Project/Classes/`中新建原生视图`HomepageViewController`，使用XIB：	
+<!-- more -->
 
 4.1、`HomepageViewController.h`
 

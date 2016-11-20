@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hertz Wang
+title: Hertz Wang Blog
 subtitle: 
 description: iOS developer from China.
 author: Hertz Wang
@@ -11,11 +11,20 @@ author: Hertz Wang
 language: zh-Hans
 timezone: Asia/Shanghai
 
+# Search
+## Local Search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://hertzwang.com
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :title.html
 permalink_defaults:
 
 # Directory
@@ -58,7 +67,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 3
+per_page: 4
 pagination_dir: page
 
 # Extensions
