@@ -1,38 +1,42 @@
 # blog
 ### 搭建编写环境与源码同步
 
+#### 一、环境
+
 摘自[Hexo.io](https://hexo.io/docs/index.html)	
 
 1. 下载 [Node.js](https://nodejs.org)	 
 
 2. 下载 [Git](https://git-scm.com)	
-	
-3. 下载MarkDown编辑工具：	
+			
+3. 终端/Dos 执行 ```$ npm install -g hexo-cli``` 安装Hexo 	
+4. 下载MarkDown编辑工具：	
 ```Windows:```[MarkdownPad for Windows](http://markdownpad.com/)	
 ```Mac:```[MacDown](http://macdown.uranusjr.com/) 只支持Mac系统，下载不了时用[百度云盘](http://pan.baidu.com/s/1cuqThs)
-			
-4. 终端/Dos 执行 ```$ npm install -g hexo-cli``` 安装Hexo 	
 
-5. 创建项目(blog为项目名)	
+5. 下载[GitHub Desktop](https://desktop.github.com)
 
-		$ hexo init blog	
-		$ cd blog	
-		$ npm install	
+#### 二、搭建项目
+
+1. 使用 *GitHub Desktop* 下载该项目
+2. 执行 `hexo init tempBlog` 创建临时项目
+3. 获取**Hexo**相关资源，将 *tempBlog* 文件夹中非以下信息全复制到 *blog* 文件夹中后删除 *tempBlog* 文件夹：	
+
+		.../tempBlog/_config.yml
+		.../tempBlog/scaffolds/		
+		.../tempBlog/source/	
+		.../tempBlog/themes/
+		
 	
-6. 安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
+4. 进入 *blog* 文件夹，执行 `npm install` 命令
+	
+5. 安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
 
 		$ npm install hexo-deployer-git --save
 
-7. 安装搜索三方`hexo-generator-searchdb`
+6. 安装搜索三方`hexo-generator-searchdb`
 
 		$ npm install hexo-generator-searchdb --save
-
-8. 替换配置文字和文档	
-	
-		.../blog/_config.yml
-		.../blog/scaffolds/		
-		.../blog/source/	
-		.../blog/themes/
 	
 9. 部署
 
