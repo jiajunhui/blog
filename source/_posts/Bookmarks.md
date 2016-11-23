@@ -41,6 +41,14 @@ description:
 * [Sketch](https://www.sketchapp.com)
 
 	**Mac**平台上一款轻量、易用的矢量设计工具，让*UI设计更简单、更高效*
+	
+* [马克鳗(MarkMan)](http://getmarkman.com/)
+
+	高效的设计稿标注、测量工具，支持 **Mac** 和 **Windows**
+	
+* [Simple SVN Server](https://itunes.apple.com/cn/app/simple-svn-server/id1040404148?mt=12)
+
+	**Mac** 上不错的 **SVN** 服务工具
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/)
 
@@ -53,6 +61,26 @@ description:
 * [iTaskX](https://itaskx.com/en/index.aspx)	
 	**Mac**平台上效率工具，类似**Microsoft**的[**Visio**](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)，用于*简化项目、资源和项目组合管理，保持工作井然有序*
 
+* [Macdown](http://macdown.uranusjr.com/)
+
+	**Mac** 平台上不错的 **MarkDown** 语言工具
 	
+* [Parallels Desktop](http://www.parallels.com/cn/products/desktop/)
+
+	**Mac** 平台上不错的虚拟机软件
 	
+* [Beyond Compare](http://www.scootersoftware.com/download.php)
+
+	一款不错的文件差异比较、内容合并的软件，支持文本、表格、图片、二进制文件、注册表等，支持平台 **Mac** 、 **Linux** 和 **Windows**
 	
+* [Teamviewer](https://www.teamviewer.com/en/)
+
+	远程控制（桌面）软件，支持 **Mac** 、 **Windows** 、 **Linux** 、 **Chrome OS** 、 **iOS** 、 **Android** 、 **Windows App** 、 **BlackBerry** 
+	
+* [Charles](https://www.charlesproxy.com/)
+
+	一款不错的 **数据抓包** 软件，支持 **Mac** 、 **Windows** 和 **Linux** 
+	
+* [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-tui-song/id989622350?mt=12)
+
+	一款不错的为 **iOS** 、**Mac App** 提供推送测试的小工具
