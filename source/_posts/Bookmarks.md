@@ -84,3 +84,24 @@ description:
 * [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-tui-song/id989622350?mt=12)
 
 	一款不错的为 **iOS** 、**Mac App** 提供推送测试的小工具
+
+### iOS第三方库
+
+
+* 网络封装 
+	* Objective-C [AFNetworking](https://github.com/AFNetworking/AFNetworking) 
+	* Swift [Alamofire](https://github.com/Alamofire/Alamofire)
+	
+* 播放器 [ZFPlayer](https://github.com/renzifeng/ZFPlayer)
+
+* HUD提示 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+
+* 加载网络图片 [SDWebImage](https://github.com/rs/SDWebImage)
+
+* 文件压缩、解压 [ZipArchive](https://github.com/ZipArchive/ZipArchive)
+
+* 键盘遮挡 [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+
+* 下拉刷新、上拉加载 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+
+* HTTP Server [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
