@@ -18,17 +18,17 @@ tags:
 
 1.在Unity工程中新建一个`Assets`:
 
-![新建一个Assets](../../../../images/20160810-unity-01.png "新建一个Assets")	
+![新建一个Assets](./images/Unity-iOS-02-New-Assets.png "新建一个Assets")	
 
 <!-- more -->
 
 2.将`Square`拖动至`Hierarchy`:
 
-![将Square拖动至Hierarchy](../../../../images/20160810-unity-02.png "将Square拖动至Hierarchy")	
+![将Square拖动至Hierarchy](./imagesUnity-iOS-02-Move-Square.png "将Square拖动至Hierarchy")	
 
 3.给`Square`添加一个脚本，输入名字`UnitySendMessageToiOS`，语言使用默认的 `C Sharp`：
 
-![给Square添加一个脚本](../../../../images/20160810-unity-03.png "给Square添加一个脚本")	
+![给Square添加一个脚本](./images/Unity-iOS-02-Square-Script.png "给Square添加一个脚本")	
 
 4.打开`UnitySendMessageToiOS`脚本添加按钮及点击事件：			
 
