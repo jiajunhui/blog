@@ -24,7 +24,7 @@ tags:
 
 2.将`Square`拖动至`Hierarchy`:
 
-![将Square拖动至Hierarchy](./imagesUnity-iOS-02-Move-Square.png "将Square拖动至Hierarchy")	
+![将Square拖动至Hierarchy](./images/Unity-iOS-02-Move-Square.png "将Square拖动至Hierarchy")	
 
 3.给`Square`添加一个脚本，输入名字`UnitySendMessageToiOS`，语言使用默认的 `C Sharp`：
 
