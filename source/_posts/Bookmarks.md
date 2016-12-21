@@ -84,6 +84,10 @@ description:
 * [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-tui-song/id989622350?mt=12)
 
 	一款不错的为 **iOS** 、**Mac App** 提供推送测试的小工具
+	
+* [MediaInfo](https://mediaarea.net/zh/MediaInfo)
+
+	一款不错的多媒体参数显示软件，支持**Mac、Windows、Debian、Ubuntu、Linux Mint、RedHat Entreprise Linux、CentOS、Fedora、openSUSE、Mandriva、ArchLinux**
 
 ### iOS第三方库
 
