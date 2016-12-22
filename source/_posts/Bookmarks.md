@@ -28,6 +28,8 @@ description:
 * [Apple Developer](https://developer.apple.com)
 
 	Apple 开发者官网
+	
+* [Apple Developer 动态](https://developer.apple.com/news/)
 
 * [Android Developer](https://developer.android.com)
 
