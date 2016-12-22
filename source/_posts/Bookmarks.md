@@ -23,15 +23,33 @@ description:
 
 	西安点测网络科技有限公司旗下的『蒲公英』品牌，是专为 **iOS**、**Android** 开发者提供的免费用应用内测、托管的平台，旨在解决开发者将应用分发给内测用户时的繁杂、低效的问题
 	
-### WWDC
+### IT相关
+
+* [Apple Developer](https://developer.apple.com)
+
+	Apple 开发者官网
+
+* [Android Developer](https://developer.android.com)
+
+	Android 开发者官网
+	
+<!-- more -->	
 
 * [历年WWDC会议记录（英文）](http://www.asciiwwdc.com)
 
-<!-- more -->	
-
-### 电子书
-
 * [英文IT书籍](http://www.allitebooks.com)
+
+* [StackOverflow](http://stackoverflow.com)
+
+	问题解决平台
+
+* [StackExchange](http://security.stackexchange.com)
+
+	信息安全交流平台，关于https、TLS/SSL等
+	
+* [Github](https://github.com)
+
+	代码托管平台
 
 ### 工具类
 * [Axure](http://www.axure.com)
@@ -109,3 +127,28 @@ description:
 * 下拉刷新、上拉加载 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 
 * HTTP Server [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
+
+### PHP相关
+
+* [PHP官网](http://php.net)，下载、文档等
+
+* PHP基本语法
+	* [英文](http://www.w3schools.com/php/)
+	* [中文](http://w3school.com.cn/php/index.asp)
+
+* IDE [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+
+* CI框架 
+	* [CodeIgniter](https://www.codeigniter.com)
+	* [CodeIgniter 中国](http://codeigniter.org.cn)
+	* [Github](https://github.com/bcit-ci/CodeIgniter/)
+
+### 其它链接
+
+* [网速测试](https://fast.com)
+
+	测算当前的互联网下载速度
+	
+* [TIOBE](http://www.tiobe.com/tiobe-index/)
+
+	编程言语排行
