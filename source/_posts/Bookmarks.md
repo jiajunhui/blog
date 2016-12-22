@@ -106,15 +106,26 @@ description:
 * [MediaInfo](https://mediaarea.net/zh/MediaInfo)
 
 	一款不错的多媒体参数显示软件，支持**Mac、Windows、Debian、Ubuntu、Linux Mint、RedHat Entreprise Linux、CentOS、Fedora、openSUSE、Mandriva、ArchLinux**
+	
+* [DbWrench](http://dbwrench.com)
+
+	数据库设计和同步软件，支持**Mac、Windows、Linux**
 
 ### iOS第三方库
 
+* [Mob](http://www.mob.com)
+
+	掌淘科技本着一切以开发者需求为上的原则，倾力打造Mob（原ShareSDK）移动开发者服务平台，致力于帮助移动开发者解决实际需求，构建了社交分享服务平台、手游视频录制服务平台、App统计服务平台和短信验证服务平台等四大分平台，一系列其他的开发者服务还将陆续推出，力图为开发者打造最贴心的一站式服务平台。
+
+* [乐视云](http://www.lecloud.com/zh-cn/help)
+
+	乐视云计算有限公司出的视频管理平台，含有点播、直播等视频服务
 
 * 网络封装 
 	* Objective-C [AFNetworking](https://github.com/AFNetworking/AFNetworking) 
 	* Swift [Alamofire](https://github.com/Alamofire/Alamofire)
 	
-* 播放器 [ZFPlayer](https://github.com/renzifeng/ZFPlayer)
+* 原生播放器 [ZFPlayer](https://github.com/renzifeng/ZFPlayer)
 
 * HUD提示 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
@@ -152,3 +163,7 @@ description:
 * [TIOBE](http://www.tiobe.com/tiobe-index/)
 
 	编程言语排行
+	
+* [MantisBT](https://www.mantisbt.org)
+
+	MantisBT是一个流行的开源Web Bug跟踪系统，使用PHP编写，根据发布的GNU通用公共许可证(GPL)，支持**Linux、Windows和Mac OS X**，兼容**Chrome、Firefox、Safari、Opera和IE 7 +**
