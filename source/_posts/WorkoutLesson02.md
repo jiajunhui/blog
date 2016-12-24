@@ -7,6 +7,8 @@ tags:
 date: 2016-12-17 19:08:42
 ---
 
+反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
+
 
 2016年12月17日下午4点，本次课程共5个动作，主要是腿和肩练习
 

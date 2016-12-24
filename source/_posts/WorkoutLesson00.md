@@ -7,6 +7,8 @@ tags:
 date: 2016-12-03 18:15:34
 ---
 
+反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
+
 2016年12月3日下午4点，本次课程共5个动作（含一个组合动作），主要是背部练习
 
 ## 动作一

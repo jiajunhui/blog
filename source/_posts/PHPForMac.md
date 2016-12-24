@@ -8,6 +8,8 @@ date: 2016-12-07 09:55:33
 keywords: php for mac
 ---
 
+反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
+
 前言：在Mac上运行PHP文件，因Mac自带Apache服务和PHP，只需简单配置即可运行静态PHP文件
 
 ### 两个文件夹路径

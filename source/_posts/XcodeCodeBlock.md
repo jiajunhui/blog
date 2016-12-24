@@ -8,6 +8,8 @@ date: 2016-12-14 12:36:35
 keywords: Xcode
 ---
 
+反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
+
 *持续更新中...*	
 
 前方：之前在视频中看到，敲几个字母就能生成大段代码，大大提高了效率，于是就开始研究实现。

@@ -6,6 +6,8 @@ categortes:
 tags: Print
 ---
 
+反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
+
 	print("Hello Swift")
 	
 	NSLog(@"Hello Objeict-C");
