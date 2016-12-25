@@ -64,7 +64,7 @@ date: 2016-12-25 11:11:13
 
 3. 详细设置
 
-	![Run/Debug Configurations](./images/PHPAPIDevForMac-Run/Debug-cfg "Run/Debug Configurations")
+	![Run/Debug Configurations](./images/PHPAPIDevForMac-Run-Debug-cfg.png "Run/Debug Configurations")
 
 	* Name：服务名称，输入 `PHP Built-in Web Server` 或其它
 	* Server Configuration
