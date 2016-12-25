@@ -4,6 +4,7 @@ categories:
   - Life
 tags:
   - Workout
+  - WorkoutPT
 date: 2016-12-17 19:08:42
 ---
 

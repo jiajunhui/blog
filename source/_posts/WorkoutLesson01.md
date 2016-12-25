@@ -4,6 +4,7 @@ categories:
   - Life
 tags:
   - Workout
+  - WorkoutPT
 date: 2016-12-11 11:54:42
 ---
 
@@ -29,7 +30,9 @@ date: 2016-12-11 11:54:42
 
 ## 动作二
 
-### 向前夹胸
+### Seated Straight Arm Clip Chest 坐直手臂夹胸
+
+器材：Seated Straight Arm Clip Chest
 
 预备：调整好座椅高度，坐直、挺胸，握好、肘略低于肩
 
