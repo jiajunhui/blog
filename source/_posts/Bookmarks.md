@@ -54,6 +54,7 @@ description:
 	代码托管平台
 
 ### 工具类
+
 * [Axure](http://www.axure.com)
 	
 	产品原型设计工具，可扩展类库，支持 **Mac** 和 **Windows**
@@ -112,6 +113,10 @@ description:
 * [DbWrench](http://dbwrench.com)
 
 	数据库设计和同步软件，支持**Mac、Windows、Linux**
+	
+* [Navicat系列](https://www.navicat.com/download)
+
+	数据库建模、连接等工具，全平台
 
 ### iOS第三方库
 
