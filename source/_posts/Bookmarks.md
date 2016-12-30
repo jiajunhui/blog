@@ -169,7 +169,7 @@ description:
 	
 * [TIOBE](http://www.tiobe.com/tiobe-index/)
 
-	编程言语排行
+	编程语言排行
 	
 * [MantisBT](https://www.mantisbt.org)
 
