@@ -1,5 +1,5 @@
 ---
-title: 2016年12月健身日志
+title: 2016年12月份健身日志
 categories:
   - Life
 tags:
@@ -11,7 +11,6 @@ date: 2016-12-25 10:22:28
 反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
 
 
-*持续更新中...*	
 **2016-12-27 周二**
 
 * 跑步机
