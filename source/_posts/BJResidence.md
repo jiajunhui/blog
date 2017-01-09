@@ -9,11 +9,23 @@ date: 2016-12-24 10:02:26
 
 反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
 
+*持续更新中...*
+
+
+续：“原文”不太准确，找到了官方网站 [北京居住证平台](https://www.bjjzzpt.com/)，可在网站上约
+
+
+
+
+<!-- more -->
+
+注：以下信息参考价值不大
+
+---
+
 原文： [办理暂住登记和申领《北京市居住证》](http://www.bjgaj.gov.cn/web/detail_getWsgsInfo_36953_col1351.html)
 
 前言：应根据个人情况做参考，权威说明请参考**原文**，一般15日内制发，首次申领、办理《居住证》免费
-
-<!-- more -->
 
 ![暂住证](./images/BJResidence-KITAS.png "暂住证")
 
