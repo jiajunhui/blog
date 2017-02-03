@@ -121,6 +121,11 @@ description:
 * [Navicat系列](https://www.navicat.com/download)
 
 	数据库建模、连接等工具，全平台
+	
+
+* [Todoist](https://todoist.com)
+
+	Todoist比其他待办事项管理服务提供更多有用功能。而您将能定制您的体验, 管理您的任务和项目同时提升您的效率。
 
 ### iOS第三方库
 
