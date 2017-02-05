@@ -7,3 +7,4 @@ public/*
 .deploy_git/
 
 .DS_Store
+*.log
