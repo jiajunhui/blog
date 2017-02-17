@@ -10,8 +10,6 @@ date: 2017-01-03 22:43:28
 
 反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
 
-*持续更新中...*	
-
 **2017-01-16 周一**
 
 * 仰卧起坐4组（上下各50次）
