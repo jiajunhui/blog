@@ -15,9 +15,9 @@ date: 2017-01-16 20:36:26
 
 字段名      | 数据类型 |   数据长度 |  说明  | 允许空  | 备注   |
 -----------|--------|-----------|-------|--------|--------|
-column_name | Int   |   11      |  列名  | N      |        |
-column_name | Int   |   11      |  列名  | N      |        |
-column_name | Int   |   11      |  列名  | N      |        |
+column_name | Int   |   11      |  列名  | N      |        
+column_name | Int   |   11      |  列名  | N      |        
+column_name | Int   |   11      |  列名  | N      |        
 
 <!-- more -->
 
@@ -25,9 +25,9 @@ column_name | Int   |   11      |  列名  | N      |        |
 
 字段名      | 数据类型 |   数据长度 |  说明  | 允许空  | 备注   |
 -----------|--------|-----------|-------|--------|--------|
-column_name | Int   |   11      |  列名  | N      |        |
-column_name | Int   |   11      |  列名  | N      |        |
-column_name | Int   |   11      |  列名  | N      |        |
+column_name | Int   |   11      |  列名  | N      |        
+column_name | Int   |   11      |  列名  | N      |        
+column_name | Int   |   11      |  列名  | N      |        
 
 ## 实体关系
 
