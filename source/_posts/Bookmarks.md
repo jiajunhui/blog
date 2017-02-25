@@ -182,4 +182,8 @@ description:
 	
 * [MantisBT](https://www.mantisbt.org)
 
-	MantisBT是一个流行的开源Web Bug跟踪系统，使用PHP编写，根据发布的GNU通用公共许可证(GPL)，支持**Linux、Windows和Mac OS X**，兼容**Chrome、Firefox、Safari、Opera和IE 7 +**
+    MantisBT是一个流行的开源Web Bug跟踪系统，使用PHP编写，根据发布的GNU通用公共许可证(GPL)，支持**Linux、Windows和Mac OS X**，兼容**Chrome、Firefox、Safari、Opera和IE 7 +**
+
+* [健身器械](http://www.jirou.com/html/qixie.html)
+    
+    机械使用相关
