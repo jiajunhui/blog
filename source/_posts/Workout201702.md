@@ -10,8 +10,9 @@ date: 2017-02-17 08:50:28
 
 反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
 
-*持续更新中...*	
+**2017-02-27 周一**
 
+* 健身私教日记-小明第二节](./WorkoutLessonWXM02.html)
 
 **2017-02-24 周五**
 
