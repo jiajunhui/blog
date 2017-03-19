@@ -24,7 +24,7 @@ date: 2016-12-25 10:22:28
 
 **2016-12-25 周日**
 
-* [健身私教日记-第三节](./WorkoutLesson03.html)
+* [健身私教日记-第三节](https://hertzwang.github.io/WorkoutLesson03.html)
 
 <!-- more -->
 
@@ -80,7 +80,7 @@ date: 2016-12-25 10:22:28
 
 **2016-12-17 周六**
 
-* [健身私教日记-第二节](./WorkoutLesson02.html)
+* [健身私教日记-第二节](https://hertzwang.github.io/WorkoutLesson02.html)
 
 **2016-12-15 周四**
 
@@ -108,7 +108,7 @@ date: 2016-12-25 10:22:28
 
 **2016-12-10 周六**
 
-* [健身私教日记-第一节](./WorkoutLesson01.html)
+* [健身私教日记-第一节](https://hertzwang.github.io/WorkoutLesson01.html)
 
 
 **2016-12-05 周一**
@@ -120,4 +120,4 @@ date: 2016-12-25 10:22:28
 
 **2016-12-03 周六**
 
-* [私教体验课](./WorkoutLesson00.html)
+* [私教体验课](https://hertzwang.github.io/WorkoutLesson00.html)

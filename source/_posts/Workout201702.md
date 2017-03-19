@@ -12,16 +12,16 @@ date: 2017-02-17 08:50:28
 
 **2017-02-27 周一**
 
-* 健身私教日记-小明第二节](./WorkoutLessonWXM02.html)
+* [健身私教日记-小明第二节](https://hertzwang.github.io/WorkoutLessonWXM02.html)
 
 **2017-02-24 周五**
 
-* 健身私教日记-小明第一节](./WorkoutLessonWXM01.html)
+* [健身私教日记-小明第一节](https://hertzwang.github.io/WorkoutLessonWXM01.html)
 
 
 **2017-02-21 周二**
 
-* [健身私教日记-小明预热](./WorkoutLessonWXM00.html)
+* [健身私教日记-小明预热](https://hertzwang.github.io/WorkoutLessonWXM00.html)
 
 
 **2017-02-19 周日**

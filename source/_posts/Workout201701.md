@@ -34,7 +34,7 @@ date: 2017-01-03 22:43:28
 
 **2017-01-06 周五**
 
-* [健身私教日记-第四节](./WorkoutLesson04.html)
+* [健身私教日记-第四节](https://hertzwang.github.io/WorkoutLesson04.html)
 
 **2017-01-03 周二**
 
