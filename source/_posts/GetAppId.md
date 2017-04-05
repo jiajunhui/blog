@@ -1,5 +1,5 @@
 ---
-title: 获取ipa中应用ID(URL Schemes)
+title: 获取App Id 和 URL Schemes
 categories:
   - IT
   - iOS
@@ -8,10 +8,21 @@ tags:
 date: 2017-04-02 16:51:20
 ---
 
-> 由于工作需要应用跳转到其它App，那么问题来，怎么知道目标应用的App Id呢 ？
+> 由于工作需要应用跳转到其它App，那么问题来，怎么知道目标应用的App Id 和 URL Schemes 呢 ？
 
 反馈请联系[**hertz@hertzwang.com**](mailto:hertz@hertzwang.com),谢谢
 
+
+# App Id
+
+1. 打开 `iTunes`，在 **iTunes Store** 中搜索目标应用；
+2. 在搜索结果中点击`v`按钮，选择**复制链接**；
+
+		https://itunes.apple.com/cn/app/%E7%88%B1%E7%9C%8B%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD/id480099078?mt=8
+	
+3. `.../id480099078?mt=8`中的 `480099078`就是目标应用的App Id.
+
+# URL Schemes
 
 ## 拿到ipa
 
@@ -22,9 +33,9 @@ date: 2017-04-02 16:51:20
 	* 91助手
 	* 等......
 
-## 查看 App Id
+## 查看 URL Schemes
 
-> 其思路是通过应用 `Info.plist` 中的 `URL types`设置，来分析该应用的 App Id
+> 其思路是通过应用 `Info.plist` 中的 `URL types`设置，来分析该应用的 URL Schemes
 	
 <!-- more -->
 
@@ -37,7 +48,7 @@ date: 2017-04-02 16:51:20
 
 	打开 *同名文件夹/Payload*，选中应用程序-->右键-->显示包内容
 
-3. 查看 App id
+3. 查看 URL Schemes
 
 	打开文件夹中的 *Info.plist* 文件，搜索关键字 `schemes`，查看 `URL types` 各个 `item` 中的  `URL Schemes`
 	
