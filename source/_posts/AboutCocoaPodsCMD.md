@@ -37,6 +37,10 @@ date: 2017-04-04 20:45:51
 		target 'MyApp' do
 		  pod 'AFNetworking', '~> 3.0'
 		end
+		
+4. 注册CocoaPods `$ pod trunk register 邮箱地址 '用户名' --verbose`,注册后需要邮件确认
+5. 查看CocoaPods信息 `$ pod trunk me`
+6. 创建共享库 `$ pod lib create 库名`
 
 注：参考 [https://guides.cocoapods.org](https://guides.cocoapods.org)
 
