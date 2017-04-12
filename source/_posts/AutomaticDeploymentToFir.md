@@ -46,7 +46,7 @@ fir-cli 使用 Ruby 构建, 无需编译, 只要安装相应 gem 即可.
 
 `fir build_ipa path/to/workspace -w -S <scheme name>`
 
-其它方法参考官方文档
+* 其它方法参考官方文档，也可使用Apple 官方的`xcodebuild`命令操作，查看文章[ipa打包、上传至pgyer.com](./AutomaticDeploymentToPgyer.html)
 
 ## 上传(发布)
 
