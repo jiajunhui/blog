@@ -34,10 +34,10 @@ description:
 * [Android Developer](https://developer.android.com)
 
 	Android 开发者官网
-	
-<!-- more -->	
 
 * [历年WWDC会议记录（英文）](http://www.asciiwwdc.com)
+
+<!-- more -->
 
 * [英文IT书籍](http://www.allitebooks.com)
 
