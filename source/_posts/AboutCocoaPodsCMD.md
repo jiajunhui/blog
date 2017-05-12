@@ -41,6 +41,18 @@ date: 2017-04-04 20:45:51
 4. 注册CocoaPods `$ pod trunk register 邮箱地址 '用户名' --verbose`,注册后需要邮件确认
 5. 查看CocoaPods信息 `$ pod trunk me`
 6. 创建共享库 `$ pod lib create 库名`
+7. 更新CocoaPods库（需要等待）
+
+		$ sudo gem install cocoapods
+		$ pod repo
+		$ pod setup
+		
+		
+8. 查看本地库大小
+
+		$ cd ~/.cocoapods/
+		$ du -sh *
+
 
 注：参考 [https://guides.cocoapods.org](https://guides.cocoapods.org)
 
