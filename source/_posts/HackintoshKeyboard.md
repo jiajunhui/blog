@@ -1,5 +1,5 @@
 ---
-title: HackintoshKeyboard
+title: 黑苹果修改键位
 categories:
   - IT
 tags:
@@ -17,6 +17,8 @@ date: 2017-05-27 22:06:44
 打开 `系统偏好设置`→`键盘`→`修饰键`，选择相应的键位，如图：
 
 ![键盘设置界面](../images/HackintoshKeyboard-ModifierKeys.png)
+
+<!-- more -->
 
 ## Launchpad设置
 
