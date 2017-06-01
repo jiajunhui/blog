@@ -20,12 +20,7 @@
 
 1. 使用 *GitHub Desktop* 下载该项目
 2. 执行 `hexo init tempBlog` 创建临时项目
-3. 获取**Hexo**相关资源，将 *tempBlog* 文件夹中非以下信息全复制到 *blog* 文件夹中后删除 *tempBlog* 文件夹：	
-
-		.../tempBlog/_config.yml
-		.../tempBlog/scaffolds/		
-		.../tempBlog/source/	
-		.../tempBlog/themes/
+3. 将 *tempBlog* 文件夹中 `node_modules` 和 `package.json` 复制到 *blog* 文件夹中，然后删除 *tempBlog* 文件夹
 		
 	
 4. 进入 *blog* 文件夹，执行 `npm install` 命令
