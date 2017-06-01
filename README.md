@@ -1,7 +1,7 @@
 # blog
-### 搭建编写环境与源码同步
+## 搭建编写环境与源码同步
 
-#### 一、环境
+### 一、环境
 
 摘自[Hexo.io](https://hexo.io/docs/index.html)	
 
@@ -16,32 +16,48 @@
 
 5. 下载[GitHub Desktop](https://desktop.github.com)
 
-#### 二、搭建项目
+### 二、搭建项目
 
-1. 使用 *GitHub Desktop* 下载该项目
-2. 执行 `hexo init tempBlog` 创建临时项目
-3. 将 *tempBlog* 文件夹中 `node_modules` 和 `package.json` 复制到 *blog* 文件夹中，然后删除 *tempBlog* 文件夹
-		
+#### 下载项目
+
+* 使用 *GitHub Desktop* 下载该项目
+
+#### 项目配置方式一
+
+* 需要`python`支持，执行 `python initBlog.py`
+
+* 注： 该方案不完美，运行结束后需要手动刷新浏览器。
+
+#### 项目配置方式二
+
+1. 执行 `hexo init tempBlog` 创建临时项目
+2. 将 *tempBlog* 文件夹中 `node_modules` 和 `package.json` 复制到 *blog* 文件夹中，然后删除 *tempBlog* 文件夹
 	
-4. 进入 *blog* 文件夹，执行 `npm install` 命令
+3. 进入 *blog* 文件夹，执行 `npm install` 命令
 	
-5. 安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
+4. 安装部署Support，本人部署在`github.io`上，选择`hexo-deployer-git`,也可使用[其它方式](https://hexo.io/zh-cn/docs/deployment.html)
 
 		$ npm install hexo-deployer-git --save
 
-6. 安装搜索三方`hexo-generator-searchdb`
+5. 安装搜索三方`hexo-generator-searchdb`
 
 		$ npm install hexo-generator-searchdb --save
 	
-9. 部署
+### 三、部署
 
-	方式一 执行`hexo generate --deploy` 
-	
-	方式二 执行`hexo deploy --generate` 
-	
-	方式三 执行 `hexo g` 执行 `hexo d`
+#### 方式一
 
-### 常见问题
+* 需要`python`支持，执行 `python autoDeployment.py`
+
+#### 方式二
+
+* 执行`hexo generate --deploy` 
+	
+* 执行`hexo deploy --generate` 
+	
+* 先执行 `hexo g` 再执行 `hexo d`
+
+## 常见问题
 1. 部署后页面空白([参考](http://blog.csdn.net/xiangwanpeng/article/details/53155642))
 
 	原因：**NexT** 的 *_config.yml* 中 *vendors* 模块配置冲突
