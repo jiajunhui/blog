@@ -235,7 +235,7 @@ date: 2017-03-12 18:41:39
 
 
 
- 
+![流程附图](./images/BuyAHouse-process.png "流程附图")
 
 
 
