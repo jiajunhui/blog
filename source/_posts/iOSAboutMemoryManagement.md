@@ -128,7 +128,7 @@ Xcode 的 Instruments 工具集可以很方便的检测循环引用。在 Xcode 
 
 ## MRR转ARC（个人想法）
 
-1. 在 Compile Sources 中相应的 .m文件添加 -fno-objc-arc；
+1. 在 Compile Sources 中相应的 .m文件删除 -fno-objc-arc；
 2. 删除相应的 retain 、release 和 autorelease。
 
 
