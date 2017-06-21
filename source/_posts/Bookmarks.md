@@ -195,3 +195,12 @@ description:
 * [健身器械](http://www.jirou.com/html/qixie.html)
     
     机械使用相关
+
+* [JS 在线统计图表制作工具](http://charts.udpwork.com/)
+
+	JS在线统计图表制作工具，支持曲线图、折线图、条形图（竖柱）
+	、条形图（横条）、饼图、面积图、XY散点图。
+	
+* [常见编码转换](http://tool.chinaz.com/tools/urlencode.aspx)
+
+	站长工具，支持 Unicode编码、UTF-8编码、URL编码/解码、Unix时间戳、Ascii/Native编码互转、base64图片在线转换工具。
