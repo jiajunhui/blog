@@ -214,7 +214,7 @@ auto_excerpt:
 #wechat_subscriber:
   #enabled: true
   #qcode: /path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
-description: iOS developer from China.
+description: iOS developer from China. <br/>求职中，简历地址 <a href="http://cv.hertzwang.com" target="_blank">cv.hertzwang.com</a>
 
 
 
