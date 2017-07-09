@@ -39,14 +39,12 @@ date: 2017-07-07 17:47:40
 `nginx`常用命令：
 
 * 启动`nginx`服务：`sudo brew services start nginx`
-	
 * 关闭`nginx`服务：`sudo brew services stop nginx`
-
 * 重新加载`nginx`：`nginx -s reload`
-	
 * 停止`nginx`：`nginx -s stop`
+* 检查配置文件语法：`nginx -t`
 	
-注： 停止`nginx`后启动比较麻烦，先关闭`nginx`服务再启动`nginx`服务，如有更好的方法[联系我](mailto:hertz@hertzwang.com)
+注：也可使用`sudo nginx`启动、使用`sudo nginx -s stop`停止。
 
 ## Nginx相关信息
 
